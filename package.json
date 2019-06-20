@@ -1,0 +1,29 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaPerica/chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "web",
+    "app"
+  ],
+  "author": "Nikola Perica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaPerica/chat-app/issues"
+  },
+  "homepage": "https://github.com/NikolaPerica/chat-app#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
